@@ -16,3 +16,5 @@ routes(app); //register the route
 app.listen(port);
 
 console.log('todo list RESTful API server started on: ' + port);
+
+//swa start http://localhost:3000 --api ./api-node
