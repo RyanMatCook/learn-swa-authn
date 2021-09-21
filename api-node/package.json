@@ -1,0 +1,19 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "products api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon server.js"
+  },
+  "author": "Ryan.Cook",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
